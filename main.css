@@ -1,0 +1,29 @@
+body #preso .slide {
+  width: 990px;
+  height: 710px;
+  padding:10px;
+  border:5px solid gray;
+  background:#ffffff url('logo.gif') no-repeat right bottom;
+}
+
+.content h1 {
+  background-color: #8EFF71;
+}
+
+.bullets ul li {
+  padding-left: 75px;
+  text-align: left;
+  background: url('bullets-small.jpg') no-repeat left center;
+}
+
+.content img {
+  background-position: center bottom;
+}
+
+.content .highlight {
+  -moz-border-radius: 10px 10px 10px 10px;
+  border: 5px solid red;
+  position:absolute;
+  height:30px;
+  width:200px;
+}
